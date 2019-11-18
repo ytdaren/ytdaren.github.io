@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>英淘达人</title>
+  <icon>https://www.gravatar.com/avatar/458c20a042e6935297a063e7c5b6f45a</icon>
+  <subtitle>英国购物海淘指南</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.yingtaodaren.com/"/>
+  <updated>2019-11-18T10:48:58.749Z</updated>
+  <id>https://www.yingtaodaren.com/</id>
+  
+  <author>
+    <name>达人君</name>
+    <email>info@yingtaodaren.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://www.yingtaodaren.com/test/"/>
+    <id>https://www.yingtaodaren.com/test/</id>
+    <published>2019-11-18T10:48:58.749Z</published>
+    <updated>2019-11-18T10:48:58.749Z</updated>
+    
+    <content type="html"><![CDATA[<p>just a test</p><p>to see if it works.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;just a test&lt;/p&gt;
+&lt;p&gt;to see if it works.&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
